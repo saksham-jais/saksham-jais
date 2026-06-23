@@ -1,76 +1,186 @@
-<!-- 
-To use this README:
-1. Create a new repository on GitHub named `saksham-jais` (your exact username).
-2. Initialize it with a README.md file.
-3. Copy this content into that README.md.
-4. Update the social links in the About Me section.
--->
-
 <div align="center">
   <h1>Hi there, I'm Saksham Jaiswal 👋</h1>
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=3670A0&width=435&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;IoT+%26+Hardware+Hacker" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=3670A0&width=500&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;IoT+%26+Hardware+Hacker;Building+Scalable+AI+Systems;Hackathon+Builder+%26+Innovator" alt="Typing SVG" />
 </div>
 
-I build scalable backends, interactive dashboards, and AI-powered applications. 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saksham-jais&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on cutting-edge AI, Web, and IoT projects like **HydroMind**, **ParkIQ**, and an **AI Transaction Pipeline**.
-- 🌱 I’m currently diving deeper into **LangChain**, **RAG architectures**, and **Containerization/Docker**.
-- 👯 I’m looking to collaborate on Open Source AI/ML projects and Hackathons.
-- 💬 Ask me about **FastAPI, React, Python, Machine Learning, and IoT integrations (ESP32)**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saksham-jais/) | [Email](mailto:sakshamjais100@gmail.com)
 
-## 💻 Tech Stack
+- 🎓 CSE (AI & ML) Student at VIT Bhopal University
+- 🔭 Currently building AI, IoT, and Full-Stack solutions
+- 🌱 Learning LangChain, RAG Architectures, Docker & System Design
+- 🏆 Hackathon Enthusiast | Open Source Contributor
+- 💡 Passionate about AI, Automation, Backend Systems, and Smart Infrastructure
+- 💬 Ask me about FastAPI, React, Python, Machine Learning, and ESP32 IoT
+- 📫 Reach me at: **sakshamjais100@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/saksham-jais/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="mailto:sakshamjais100@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
 
 ### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![React](https://skillicons.dev/icons?i=react)
+![Vite](https://skillicons.dev/icons?i=vite)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
 ### Backend & DevOps
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
-### Databases & Cache
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![Github](https://skillicons.dev/icons?i=github)
 
-### AI, ML & Hardware
-![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![Espressif ESP32](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+### Database & Cloud
 
-## 🔥 Recent & Notable Projects
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![Redis](https://skillicons.dev/icons?i=redis)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
-- 🚗 **[ParkIQ](https://github.com/saksham-jais/ParkIQ)**: An intelligent parking management system combining a CCTV processing pipeline, a robust backend, and a real-time monitoring dashboard built in Python.
-- 💧 **HydroMind**: A real-time IoT water monitoring system featuring an ESP32 hardware pipeline, Firebase integration, and a React dashboard equipped with a RAG-powered chatbot assistant.
-- 💳 **AI Transaction Pipeline**: An asynchronous, containerized data processing system using FastAPI, Celery, Redis, and PostgreSQL, powered by Gemini AI for automated categorization and insights.
-- 🧠 **[Mental-Health-Detection](https://github.com/saksham-jais/Mental-Health-Detection)**: A machine learning model utilizing Jupyter Notebooks to detect mental health patterns.
-- 🛣️ **[offroad-semantic-segmentation](https://github.com/saksham-jais/offroad-semantic-segmentation)**: Semantic segmentation modeling for offroad environments utilizing Python.
-- 📈 **[Loan_Prediction_Model](https://github.com/saksham-jais/Loan_Prediction_Model)**: A JavaScript-based loan status prediction model.
-- 🚀 **[Startup-Club-VITB](https://github.com/saksham-jais/Startup-Club-VITB)** & 💻 **[WebDev-Projects](https://github.com/saksham-jais/WebDev-Projects)**: Front-end and TypeScript web development project compilations.
+### AI / ML / Data Science
 
-## 📊 GitHub Stats & Contributions
+![Python](https://skillicons.dev/icons?i=python)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![Jupyter](https://skillicons.dev/icons?i=pycharm)
+![Google Cloud](https://skillicons.dev/icons?i=gcp)
+
+### Hardware & IoT
+
+![Arduino](https://skillicons.dev/icons?i=arduino)
+![RaspberryPi](https://skillicons.dev/icons?i=raspberrypi)
+
+---
+
+# 🔥 Featured Projects
+
+### 🚗 ParkIQ
+AI-powered illegal parking detection and monitoring platform combining Computer Vision, Smart Analytics, and Interactive Dashboards.
+
+### 💧 HydroMind
+AI + IoT based groundwater monitoring and prediction system using ESP32, Firebase, and Machine Learning.
+
+### 💳 AI Transaction Pipeline
+FastAPI + Celery + Redis + PostgreSQL based asynchronous AI-powered financial transaction processing system.
+
+### 🧠 Mental Health Detection
+Machine Learning model for identifying mental health patterns and generating predictive insights.
+
+### 🛣️ Offroad Semantic Segmentation
+Computer Vision project for semantic segmentation in off-road environments.
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=saksham-jais&show_icons=true&theme=tokyonight&hide_border=true" alt="Saksham's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham-jais&theme=tokyonight&hide_border=true" alt="Saksham's GitHub Streak" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saksham-jais&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saksham-jais&theme=tokyonight&hide_border=true"/>
+
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saksham-jais&layout=compact&theme=tokyonight&hide_border=true" alt="Saksham's Top Languages" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-jais&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-<br/>
+<br>
 
 <div align="center">
-  <h3>🐍 My GitHub Contribution Snake 🐍</h3>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saksham-jais&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saksham-jais&theme=tokyonight" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saksham-jais&theme=tokyonight" width="48%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saksham-jais&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=saksham-jais&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saksham-jais/saksham-jais/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saksham-jais/saksham-jais/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/saksham-jais/saksham-jais/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saksham-jais/saksham-jais/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 ---
+
+## 📈 Current Focus
+
+- Building scalable AI systems
+- Advanced RAG Architectures
+- Computer Vision & Smart City Solutions
+- Distributed Backend Systems
+- Open Source Contributions
+
+---
+
 <div align="center">
-  <i>Let's build something amazing together!</i>
+
+### 🚀 Let's Build Something Amazing Together!
+
+⭐ If you like my work, consider starring my repositories.
+
 </div>

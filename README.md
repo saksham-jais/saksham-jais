@@ -9,7 +9,7 @@ To use this README:
 <div align="center">
   <h1>Hi there, I'm Saksham Jaiswal 👋</h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&width=435&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;IoT+%26+Hardware+Hacker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=3670A0&width=435&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;IoT+%26+Hardware+Hacker" alt="Typing SVG" />
 </div>
 
 I build scalable backends, interactive dashboards, and AI-powered applications. 

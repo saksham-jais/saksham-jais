@@ -103,14 +103,6 @@ Computer Vision project for semantic segmentation in off-road environments.
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<div align="center">   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saksham-jais&theme=tokyonight"/> </div>  <div align="center">   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saksham-jais&theme=tokyo-night&hide_border=true"/> </div>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saksham-jais&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 <br>
 
 <div align="center">

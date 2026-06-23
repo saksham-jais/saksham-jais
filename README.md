@@ -51,12 +51,12 @@ I build scalable backends, interactive dashboards, and AI-powered applications.
 ## 📊 GitHub Stats & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saksham-jais&show_icons=true&theme=radium&hide_border=true" alt="Saksham's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham-jais&theme=radium&hide_border=true" alt="Saksham's GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=saksham-jais&show_icons=true&theme=tokyonight&hide_border=true" alt="Saksham's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham-jais&theme=tokyonight&hide_border=true" alt="Saksham's GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-jais&layout=compact&theme=radium&hide_border=true" alt="Saksham's Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saksham-jais&layout=compact&theme=tokyonight&hide_border=true" alt="Saksham's Top Languages" />
 </div>
 
 <br/>

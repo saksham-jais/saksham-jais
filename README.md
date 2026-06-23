@@ -105,12 +105,6 @@ Computer Vision project for semantic segmentation in off-road environments.
 
 <br>
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-jais&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 <br>
 
 <div align="center">

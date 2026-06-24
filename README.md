@@ -115,10 +115,11 @@ Computer Vision project for semantic segmentation in off-road environments.
 <br>
 <div >
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=saksham-jais&show_icons=true&theme=tokyonight&hide_border=true" alt="Saksham's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saksham-jais&layout=compact&theme=tokyonight&hide_border=true" alt="Saksham's Top Languages" />
 </div>
 
 <div >
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saksham-jais&layout=compact&theme=tokyonight&hide_border=true" alt="Saksham's Top Languages" />
+  
 </div>
 
 <br/>

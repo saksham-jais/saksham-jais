@@ -118,10 +118,6 @@ Computer Vision project for semantic segmentation in off-road environments.
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saksham-jais&layout=compact&theme=tokyonight&hide_border=true" alt="Saksham's Top Languages" />
 </div>
 
-<div >
-  
-</div>
-
 <br/>
 
 ---

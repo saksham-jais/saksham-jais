@@ -106,7 +106,7 @@ Computer Vision project for semantic segmentation in off-road environments.
 
 <br>
 
-<div align="center">
+<div>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saksham-jais&theme=tokyonight"/>
 

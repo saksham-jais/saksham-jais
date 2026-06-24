@@ -114,30 +114,15 @@ Computer Vision project for semantic segmentation in off-road environments.
 </div>
 
 <br>
-
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saksham-jais&theme=tokyonight" width="48%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saksham-jais&theme=tokyonight" width="48%" />
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=saksham-jais&show_icons=true&theme=tokyonight&hide_border=true" alt="Saksham's GitHub Stats" />
 </div>
 
-<br>
-
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saksham-jais&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saksham-jais&layout=compact&theme=tokyonight&hide_border=true" alt="Saksham's Top Languages" />
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saksham-jais&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
+<br/>
 
 ---
 
